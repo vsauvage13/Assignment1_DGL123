@@ -1,7 +1,7 @@
 <?php 
 $item    = 'Chocolate';
-$stock   = 5;
-$wanted  = 8;
+$stock   = 8;
+$wanted  = 5;
 $can_buy = ($wanted <= $stock);
 ?>
 <!DOCTYPE html>
